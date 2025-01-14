@@ -1,0 +1,26 @@
+/* src/index.css */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f6f9;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-weight: 600;
+  color: #3f51b5;
+}
+
+button {
+  cursor: pointer;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #3f51b5;
+}
